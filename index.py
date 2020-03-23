@@ -18,7 +18,7 @@ def currentPrice():
 
 
 def checkPrice():
-    if(currentPrice() < 12):
+    if(currentPrice() < 8):
         sendMail()
     else:
         print('price is too high, wait a little longer')
