@@ -50,4 +50,4 @@ def sendMail():
 
 while(True):
     checkPrice()
-    time.sleep(60 * 60 * 24)
+    time.sleep(60 * 60 * 60 * 24)
