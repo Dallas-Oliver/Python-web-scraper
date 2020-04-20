@@ -1,4 +1,4 @@
-# python-toilet-paper-price-scraper
+# python-web-scraper
 
 using BeautifulSoup, requests, lxml, time, and smtplib packages
 
